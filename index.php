@@ -16,10 +16,10 @@
 
     <label>Select Operation</label>
         <select name="operation">
-            <option value = "add">addition</option>
-            <option value = "sub">subtraction</option>
-            <option value = "mul">multiplication</option>
-            <option value = "div">division</option>
+            <option value = "add" name="add">addition</option>
+            <option value = "sub" name="sub">subtraction</option>
+            <option value = "mul" name="mul">multiplication</option>
+            <option value = "div" name="div">division</option>
         </select>
     <br><br>
     <input type="submit" value="Calculate">
